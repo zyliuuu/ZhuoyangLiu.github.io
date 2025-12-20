@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "欢迎"
+title: Zhuoyang Liu's Homepage
 permalink: /
 ---
 
