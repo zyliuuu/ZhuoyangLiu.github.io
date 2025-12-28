@@ -1,6 +1,6 @@
 layout: default
-title: "欢迎来到我的空间"
-description: "开发者 | 设计师 | 梦想家"
+title: "Welcome to my homepage!"
+description: "An undergraduate student in ECNU"
 ---
 
 <!-- 语言切换按钮 -->
