@@ -18,7 +18,7 @@ permalink: /paper/
 <div style="display: grid; grid-template-columns: 1fr; gap: 30px;">
 
 <div style="background-color: white; padding: 30px; border-radius: 10px; box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);">
-<h2 style="color: #1a237e; margin-top: 0; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 2px solid #f0f0f0; font-size: 1.8rem;">📖 Published Papers</h2>
+<h2 style="color: #1a237e; margin-top: 0; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 2px solid #f0f0f0; font-size: 1.8rem;"> Published Papers</h2>
 
 <div style="display: inline-block; background-color: #e8eaf6; color: #1a237e; padding: 6px 15px; border-radius: 4px; font-weight: 600; margin-bottom: 20px; font-size: 0.95rem;">2024</div>
 
@@ -31,43 +31,6 @@ permalink: /paper/
 <a href="https://doi.org/10.1007/example" style="display: inline-block; background-color: #e8eaf6; color: #1a237e; padding: 6px 12px; border-radius: 4px; margin-right: 10px; text-decoration: none; font-size: 0.9rem; font-weight: 500;">DOI</a>
 <a href="https://example.com/paper1.pdf" style="display: inline-block; background-color: #e8eaf6; color: #1a237e; padding: 6px 12px; border-radius: 4px; margin-right: 10px; text-decoration: none; font-size: 0.9rem; font-weight: 500;">PDF</a>
 <a href="https://arxiv.org/abs/2401.00001" style="display: inline-block; background-color: #e8eaf6; color: #1a237e; padding: 6px 12px; border-radius: 4px; margin-right: 10px; text-decoration: none; font-size: 0.9rem; font-weight: 500;">arXiv</a>
-</div>
-</div>
-
-<div style="margin-bottom: 30px; padding-bottom: 25px; border-bottom: 1px solid #eee; position: relative; padding-left: 25px;">
-<div style="position: absolute; left: 0; top: 5px; width: 12px; height: 12px; border-radius: 50%; background-color: #283593;"></div>
-<div style="font-weight: 600; color: #1a237e; margin-bottom: 8px; font-size: 1.1rem;">On the Security of Supersingular Isogeny Diffie-Hellman with Backdoors</div>
-<div style="color: #555; margin-bottom: 8px; font-style: italic;">Alex Johnson, Thomas Wilson</div>
-<div style="color: #666; margin-bottom: 8px;">Advances in Mathematics of Communications, Vol. 18, No. 2, pp. 345-367</div>
-<div style="margin-top: 15px;">
-<a href="https://doi.org/10.1007/example2" style="display: inline-block; background-color: #e8eaf6; color: #1a237e; padding: 6px 12px; border-radius: 4px; margin-right: 10px; text-decoration: none; font-size: 0.9rem; font-weight: 500;">DOI</a>
-<a href="https://example.com/paper2.pdf" style="display: inline-block; background-color: #e8eaf6; color: #1a237e; padding: 6px 12px; border-radius: 4px; margin-right: 10px; text-decoration: none; font-size: 0.9rem; font-weight: 500;">PDF</a>
-</div>
-</div>
-
-<div style="display: inline-block; background-color: #e8eaf6; color: #1a237e; padding: 6px 15px; border-radius: 4px; font-weight: 600; margin-bottom: 20px; margin-top: 10px; font-size: 0.95rem;">2023</div>
-
-<div style="margin-bottom: 30px; padding-bottom: 25px; border-bottom: 1px solid #eee; position: relative; padding-left: 25px;">
-<div style="position: absolute; left: 0; top: 5px; width: 12px; height: 12px; border-radius: 50%; background-color: #283593;"></div>
-<div style="font-weight: 600; color: #1a237e; margin-bottom: 8px; font-size: 1.1rem;">Post-Quantum Signatures from Isogeny-Based Assumptions</div>
-<div style="color: #555; margin-bottom: 8px; font-style: italic;">Alex Johnson, Sarah Kim, Robert Lee</div>
-<div style="color: #666; margin-bottom: 8px;">IEEE Transactions on Information Theory, Vol. 69, Issue 8, pp. 5123-5145</div>
-<div style="margin-top: 15px;">
-<a href="https://doi.org/10.1109/example3" style="display: inline-block; background-color: #e8eaf6; color: #1a237e; padding: 6px 12px; border-radius: 4px; margin-right: 10px; text-decoration: none; font-size: 0.9rem; font-weight: 500;">DOI</a>
-<a href="https://example.com/paper3.pdf" style="display: inline-block; background-color: #e8eaf6; color: #1a237e; padding: 6px 12px; border-radius: 4px; margin-right: 10px; text-decoration: none; font-size: 0.9rem; font-weight: 500;">PDF</a>
-</div>
-</div>
-
-<div style="display: inline-block; background-color: #e8eaf6; color: #1a237e; padding: 6px 15px; border-radius: 4px; font-weight: 600; margin-bottom: 20px; margin-top: 10px; font-size: 0.95rem;">2022</div>
-
-<div style="margin-bottom: 30px; padding-bottom: 25px; position: relative; padding-left: 25px;">
-<div style="position: absolute; left: 0; top: 5px; width: 12px; height: 12px; border-radius: 50%; background-color: #283593;"></div>
-<div style="font-weight: 600; color: #1a237e; margin-bottom: 8px; font-size: 1.1rem;">On the Computational Complexity of Isogeny Problems</div>
-<div style="color: #555; margin-bottom: 8px; font-style: italic;">Alex Johnson, Emily Wang</div>
-<div style="color: #666; margin-bottom: 8px;">Proceedings of CRYPTO 2022, LNCS 13508, pp. 123-145</div>
-<div style="margin-top: 15px;">
-<a href="https://doi.org/10.1007/example5" style="display: inline-block; background-color: #e8eaf6; color: #1a237e; padding: 6px 12px; border-radius: 4px; margin-right: 10px; text-decoration: none; font-size: 0.9rem; font-weight: 500;">DOI</a>
-<a href="https://example.com/paper5.pdf" style="display: inline-block; background-color: #e8eaf6; color: #1a237e; padding: 6px 12px; border-radius: 4px; margin-right: 10px; text-decoration: none; font-size: 0.9rem; font-weight: 500;">PDF</a>
 </div>
 </div>
 
@@ -88,35 +51,7 @@ permalink: /paper/
 </div>
 </div>
 
-<div style="margin-bottom: 30px; padding-bottom: 25px; position: relative; padding-left: 25px;">
-<div style="position: absolute; left: 0; top: 5px; width: 12px; height: 12px; border-radius: 50%; background-color: #5c6bc0;"></div>
-<div style="font-weight: 600; color: #1a237e; margin-bottom: 8px; font-size: 1.1rem;">Isogeny-Based Cryptography on Kummer Surfaces</div>
-<div style="color: #555; margin-bottom: 8px; font-style: italic;">Alex Johnson, Michael Brown</div>
-<div style="color: #666; margin-bottom: 8px;">arXiv preprint arXiv:2401.06789 [cs.CR]</div>
-<div style="margin-top: 15px;">
-<a href="https://arxiv.org/abs/2401.06789" style="display: inline-block; background-color: #f3e5f5; color: #7b1fa2; padding: 6px 12px; border-radius: 4px; margin-right: 10px; text-decoration: none; font-size: 0.9rem; font-weight: 500;">arXiv</a>
-<a href="https://arxiv.org/pdf/2401.06789.pdf" style="display: inline-block; background-color: #e8eaf6; color: #1a237e; padding: 6px 12px; border-radius: 4px; margin-right: 10px; text-decoration: none; font-size: 0.9rem; font-weight: 500;">PDF</a>
-<a href="#" style="display: inline-block; background-color: #e8eaf6; color: #1a237e; padding: 6px 12px; border-radius: 4px; margin-right: 10px; text-decoration: none; font-size: 0.9rem; font-weight: 500;">BibTeX</a>
-</div>
-</div>
 
-<h3 style="color: #283593; margin-top: 30px; margin-bottom: 15px; font-size: 1.3rem;">Conference Presentations</h3>
-
-<div style="margin-bottom: 20px; padding: 15px; background-color: #f9f9f9; border-radius: 6px; border-left: 4px solid #ff9800;">
-<div style="font-weight: 600; color: #1a237e; margin-bottom: 5px;">Efficient Implementation of CSIDH on Embedded Devices</div>
-<div style="color: #666; margin-bottom: 5px;">Poster presentation at Eurocrypt 2024</div>
-<a href="#" style="display: inline-block; background-color: #e8eaf6; color: #1a237e; padding: 6px 12px; border-radius: 4px; margin-right: 10px; text-decoration: none; font-size: 0.9rem; font-weight: 500; margin-top: 8px;">Slides</a>
-<a href="#" style="display: inline-block; background-color: #e8eaf6; color: #1a237e; padding: 6px 12px; border-radius: 4px; margin-right: 10px; text-decoration: none; font-size: 0.9rem; font-weight: 500; margin-top: 8px;">Poster</a>
-</div>
-
-<div style="padding: 15px; background-color: #f9f9f9; border-radius: 6px; border-left: 4px solid #ff9800;">
-<div style="font-weight: 600; color: #1a237e; margin-bottom: 5px;">Isogeny-Based Cryptography: Current Challenges and Future Directions</div>
-<div style="color: #666; margin-bottom: 5px;">Invited talk at MathCrypt 2023</div>
-<a href="#" style="display: inline-block; background-color: #e8eaf6; color: #1a237e; padding: 6px 12px; border-radius: 4px; margin-right: 10px; text-decoration: none; font-size: 0.9rem; font-weight: 500; margin-top: 8px;">Slides</a>
-<a href="#" style="display: inline-block; background-color: #e8eaf6; color: #1a237e; padding: 6px 12px; border-radius: 4px; margin-right: 10px; text-decoration: none; font-size: 0.9rem; font-weight: 500; margin-top: 8px;">Video</a>
-</div>
-
-</div>
 
 </div>
 
