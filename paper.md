@@ -30,8 +30,8 @@ permalink: /paper/
 </div>
 
 <div style="margin-top: 40px; text-align: center; color: #666; font-size: 0.9rem; padding-top: 20px; border-top: 1px solid #ddd;">
-<p>© 2024 Alex Johnson | Last Updated: March 2024</p>
-<p>Contact: <a href="mailto:alex.johnson@example.com" style="color: #283593; text-decoration: none;">alex.johnson@example.com</a></p>
+<p>Copyright &copy by Zhuoyang Liu</p>
+        <p>Contact: 10231510466@stu.ecnu.edu.cn</p>
 </div>
 
 </div>
