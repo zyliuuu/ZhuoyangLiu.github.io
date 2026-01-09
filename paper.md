@@ -7,7 +7,6 @@ permalink: /paper/
 
 <div style="background: linear-gradient(135deg, #1a237e 0%, #283593 100%); color: white; padding: 40px 30px; border-radius: 10px; margin-bottom: 30px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);">
 <h1 style="margin: 0; font-size: 2.8rem; font-weight: 700;">Publications & Preprints</h1>
-<div style="font-size: 1.4rem; font-weight: 300; opacity: 0.9; border-bottom: 2px solid rgba(255, 255, 255, 0.2); padding-bottom: 15px; margin-bottom: 15px; margin-top: 10px;">Mathematics & Computer Science Research</div>
 </div>
 
 <div style="display: grid; grid-template-columns: 1fr; gap: 30px;">
