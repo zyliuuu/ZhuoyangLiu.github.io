@@ -1,5 +1,5 @@
 ---
 layout: page
 title: "Seminars"
-permalink: /about/
+permalink: /seminar/
 ---
